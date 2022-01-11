@@ -8,7 +8,7 @@
   <div style="margin: 20px 0"></div>
   <el-input
     v-model="textarea2"
-    :autosize="{ minRows: 2, maxRows: 4 }"
+    :autosize="{ minRows: 2, maxRows: 2 }"
     type="textarea"
     placeholder="Please input"
   >
